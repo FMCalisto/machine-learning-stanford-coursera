@@ -17,7 +17,14 @@ for iter = 1:num_iters
     %       of the cost function (computeCost) and gradient here.
     %
 
+    %The vector of hypothesis
+    h = X * theta;
 
+    %Vector of difference
+    dif = h - y;
+
+    
+    theta = theta - alpha * (1 / m) * [sum(dif); sum(dif.*X(:, 2))];
 
 
 
