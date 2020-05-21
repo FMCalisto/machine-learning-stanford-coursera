@@ -12,13 +12,9 @@
 
 This is my solution to all the programming assignments and quizzes of [Machine Learning (ML)](https://www.coursera.org/learn/machine-learning) from [Stanford University](https://www.stanford.edu/) at [Coursera](https://www.coursera.org) taught by [Andrew Ng](https://www.andrewng.org/). After completing this course you will get a broad idea of ML algorithms. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
 
-### License & Copyright
+### License
 
-Copyright &copy; 2019 [oppr](https://oppr.io)
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-The [`repo-template-datasets`](https://github.com/opprDev/repo-template-datasets) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
 
 ### Team
 
@@ -28,15 +24,10 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 * Francisco Maria Calisto [ [Website](http://www.franciscocalisto.me/) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/) ]
 
-* Luís Ribeiro Gomes
-
 #### Participants
 
-* Bruno Oliveira
-* Carlos Santiago
-* Jacinto C. Nascimento
-* Pedro Miraldo
-* Nuno Nunes
+* Luís Ribeiro Gomes
+* Bruno Oliveiras
 
 ### Supporting
 
