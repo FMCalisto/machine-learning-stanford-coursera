@@ -14,7 +14,7 @@ This is my solution to all the programming assignments and quizzes of [Machine L
 
 ### License
 
-
+The present repository is under the terms of [MIT](LICENSE) and the hereby information is covered by this. You are free to make changes and use this in either personal or commercial projects. Attribution is not required, but it is welcomed. A little "Thanks!" (or something to that affect) would be much appreciated.
 
 ### Team
 
