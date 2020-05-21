@@ -12,6 +12,10 @@
 
 This is my solution to all the programming assignments and quizzes of [Machine Learning (ML)](https://www.coursera.org/learn/machine-learning) from [Stanford University](https://www.stanford.edu/) at [Coursera](https://www.coursera.org) taught by [Andrew Ng](https://www.andrewng.org/). After completing this course you will get a broad idea of ML algorithms. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
 
+```
+octave
+```
+
 ### License
 
 The present repository is under the terms of [MIT](LICENSE) and the hereby information is covered by this. You are free to make changes and use this in either personal or commercial projects. Attribution is not required, but it is welcomed. A little "Thanks!" (or something to that affect) would be much appreciated.
