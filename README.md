@@ -59,6 +59,11 @@ Please, feel free to try out any of our `exercises/` sampling. For instance, you
 ```bash
 $ cd exercises/machine-learning-ex1/ex1/
 $ octave
+```
+
+Now, inside the `octave` console do:
+
+```
 octave:1> ex1
 ```
 
