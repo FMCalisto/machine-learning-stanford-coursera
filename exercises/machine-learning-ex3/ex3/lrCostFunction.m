@@ -40,7 +40,7 @@ preds =  sigmoid(X*theta);
 
 leftPart = -y' * log(preds);
 
-rightPart = (1 - y') * log(1 - preds); 
+rightPart = (1 - y') * log(1 - preds);
 
 thetaZero = theta;
 
