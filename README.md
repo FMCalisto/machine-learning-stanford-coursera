@@ -50,7 +50,7 @@ git clone https://github.com/FMCalisto/machine-learning-stanford-coursera.git
 
 ### Demonstration
 
-Please, feel free to try out any of our `exercises/` sampling. For instance, you can strat by a file called `ex1.m` at the `exercises/machine-learning-ex1/ex1/` directory. It can be used as follows:
+Please, feel free to try out any of our `exercises/` sampling. For instance, you can start by a file called `ex1.m` at the `exercises/machine-learning-ex1/ex1/` directory. It can be used as follows:
 
 ```bash
 $ cd exercises/machine-learning-ex1/ex1/
