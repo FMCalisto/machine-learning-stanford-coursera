@@ -10,7 +10,7 @@
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-This is my solution to all the programming assignments and quizzes of [Machine Learning (ML)](https://www.coursera.org/learn/machine-learning) from [Stanford University](https://www.stanford.edu/) at [Coursera](https://www.coursera.org) taught by [Andrew Ng](https://www.andrewng.org/). After completing this course you will get a broad idea of ML algorithms. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code.
+This is my solution to all the programming assignments and quizzes of [Machine Learning (ML)](https://www.coursera.org/learn/machine-learning) from [Stanford University](https://www.stanford.edu/) at [Coursera](https://www.coursera.org) taught by [Andrew Ng](https://www.andrewng.org/). After completing this course you will get a broad idea of ML algorithms. Try to solve all the assignments by yourself first, but if you get stuck somewhere then feel free to browse the code. You can find my [certificate online](https://coursera.org/share/f9676fc1e2f5176346db4a0bfd6d0bed) or you can find it in the [`certificates/online/coursera/`](https://github.com/FMCalisto/about/blob/master/certificates/online/coursera/Coursera%206KKU834WSRNA.pdf) folder inside the [`about`](https://github.com/FMCalisto/about) repository.
 
 ## Table of contents
 
