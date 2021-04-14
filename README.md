@@ -98,10 +98,10 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 * Francisco Maria Calisto [ [Website](http://www.franciscocalisto.me/) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/) ]
 
-#### Participants
+#### Companions
 
-* Luís Ribeiro Gomes
 * Bruno Oliveiras
+* Luís Ribeiro Gomes
 
 ### Supporting
 
